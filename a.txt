@@ -1,2 +1,3 @@
 This is my first Git practice.
 I am learning Git commands in PowerShell.
+Today we will learn git all commands in depth
